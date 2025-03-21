@@ -165,7 +165,7 @@ This project is open-source and available under the **MIT License**.
 
 ## **Author**  
 Developed by **[MD AMIR KHAN]**  
-GitHub: [Your GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)  
+GitHub: [Your GitHub Profile](https://github.com/Mkhan2317))  
 
 
 
