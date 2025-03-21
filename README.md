@@ -84,13 +84,7 @@ Ensure you have Python installed, then install the required libraries:
 pip install numpy pandas matplotlib tensorflow scikit-learn yfinance
 ```
 
-### **2. Clone the Repository**  
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/stock-price-prediction-lstm.git
-cd stock-price-prediction-lstm
-```
-
-### **3. Run the Code**  
+### **2. Run the Code**  
 Execute the script in a Python environment:  
 ```bash
 python main.py
